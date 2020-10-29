@@ -1,4 +1,4 @@
 - hosts: localhost
   tasks:
     - debug:
-       msg: My first Playbook
+        msg: My first Updated Playbook
